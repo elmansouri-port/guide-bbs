@@ -48,7 +48,7 @@ Une section intuitive pour contacter l'équipe via un formulaire simple et rapid
 ---
 
 ## 🖥️ Aperçu du site  
-![Aperçu du site](./assets/images/Capture d'écran 2025-01-06 212337.png)  
+<img src="./assets/images/Capture d'écran 2025-01-06 212337.png" alt="Aperçu de la page d'accueil" width="600"> 
 
 ---
 
