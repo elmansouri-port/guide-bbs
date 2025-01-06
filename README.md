@@ -82,31 +82,22 @@ Les contributions sont les bienvenues !
 Étapes pour contribuer :
 Forkez le projet.
 Créez une branche pour vos modifications :
-bash
  
 git checkout -b feature/nouvelle-section
 Faites vos changements et validez-les :
-bash
  
 git commit -m "Ajout d'une nouvelle section"  
 Poussez vos changements :
-bash
  
 git push origin feature/nouvelle-section
 Ouvrez une pull request sur le dépôt principal.
 🧑‍💻 Auteur
-Développé avec ❤️ par Youssef El Mansouri.
+Développé par Youssef El Mansouri.
 
 Email : youssef.elmansouri@outlook.com
 GitHub : elmansouri-port
-Portfolio : Voir mes projets
 📄 Licence
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, le modifier et le redistribuer.
 
 Merci d'utiliser le Guide BBS ! 🎓
 Copyright © 2024 Youssef EL MANSOURI. Tous droits réservés.
-
-  
- 
-
-Copiez simplement ce contenu dans un fichier `README.md`, puis ajoutez-le à votre dépôt GitHub.
